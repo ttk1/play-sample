@@ -9,3 +9,4 @@ scalaVersion := "2.11.11"
 libraryDependencies += javaJdbc
 libraryDependencies += cache
 libraryDependencies += javaWs
+libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.45"
